@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Instagram
 
 Desafio de projeto: Criação de um Phishing com Kali Linux para o Santander Bootcamp Cibersegurança #2
 <br>
@@ -28,8 +28,8 @@ Desafio de projeto: Criação de um Phishing com Kali Linux para o Santander Boo
 
 - Obtendo o endereço da máquina: ```ifconfig```
 
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 <br>
 
-**Resultados**
+**Resultado**
