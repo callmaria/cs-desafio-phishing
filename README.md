@@ -35,4 +35,4 @@ Desafio de projeto: Criação de um Phishing com Kali Linux para o Santander Boo
 **Resultado**
 
 <br>
-![Resultado](https://github.com/callmaria/cs-desafio-phishing/blob/main/Resultado.jpg)
+<img src=Resultado_1.jpeg>
